@@ -1,0 +1,16 @@
+.content-message{
+    margin-top: 12vh;
+}
+
+.first-text{
+    font-size: 5.5em;
+    text-align: center;
+    margin-bottom: 0;
+    font-weight: 600; 
+}
+
+.second-text{
+    text-align: center;
+    font-size: 1.5em;
+    color: #525557;
+}

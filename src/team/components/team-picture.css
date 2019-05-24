@@ -1,0 +1,13 @@
+
+.content-avatar{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.avatar{
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    cursor: pointer;
+}

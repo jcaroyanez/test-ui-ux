@@ -1,0 +1,13 @@
+.footer{
+    height: 50px;
+    background: #363634;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.text-footer{
+   color: #fff; 
+   margin: 0;
+   font: 15px Montserrat,sans-serif!important;
+}

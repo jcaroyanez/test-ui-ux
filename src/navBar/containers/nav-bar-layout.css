@@ -1,0 +1,12 @@
+.customer-nav{
+    background-color: #fdcd07 !important;
+    height: 60px !important;
+}
+
+.show-menu{
+    display: block !important;
+}
+
+.hide-menu{
+    display: none;
+}

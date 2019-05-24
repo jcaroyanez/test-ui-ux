@@ -1,0 +1,27 @@
+.customer-item{
+    color: #32332f;
+    font-weight: 400;
+    letter-spacing: 1.88px;
+    padding: 10px 20px;
+    font: 18px Montserrat,sans-serif!important;
+}
+
+.customer-item > a{
+    color:#32332f;
+}
+
+.custom-menu{
+    margin-right: 15%;
+}
+
+@media(max-width:990px){
+    .custom-menu{
+        background: linear-gradient(to right, rgba(87,199,133,0), #fdcd07  20%, #fdcd07  80%, rgba(87,199,133,0));
+    }
+}
+
+@media(max-width:986px){
+    .custom-menu{
+        margin-right: 0;
+    }
+}
